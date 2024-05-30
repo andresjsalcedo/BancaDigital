@@ -1,0 +1,25 @@
+:root{
+    --primary: #6209DB; 
+    --dark: #000000;
+    --light: #F7F7F7;
+    --grey: #f5f5f5;
+    --white: #FFFFFF;
+    --grey: #c3c3c3;
+}
+.btn-primary{
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+.btn-light{
+    color: var(--primary);
+    background-color: var(--light);
+}
+.text-punto{
+    color: var(--primary);
+}
+.badge1{
+    background-color: var(--primary);
+}
+.h7{
+    color: var(--primary);
+}
